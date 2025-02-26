@@ -17,7 +17,7 @@ This repository showcases my journey in web development, from frontend designs t
 
 ## GitHub Stats & Streaks
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fastcheetah&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fastcheetah&theme=radical)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fastcheetah&theme=radical)](https://git.io/streak-stats)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fastcheetah&layout=compact&theme=radical)
 
 ## Badges
